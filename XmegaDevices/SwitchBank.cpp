@@ -3,7 +3,8 @@
  *
  * Created: 6/14/2015 12:34:18 AM
  *  Author: Raz Aloni
- */ 
+ */
+
 #include "SwitchBank.h"
 
 namespace EEL3744C

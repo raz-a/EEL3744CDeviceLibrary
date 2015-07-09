@@ -5,7 +5,6 @@
  *  Author: Raz Aloni
  */ 
 
-
 #ifndef EBIDEVICE_H_
 #define EBIDEVICE_H_
 

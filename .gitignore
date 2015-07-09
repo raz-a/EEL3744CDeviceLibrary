@@ -28,5 +28,3 @@ _ReSharper*/
 *.vssscc
 $tf*/
 *.atsuo
-*.atsln
-*.cppproj
